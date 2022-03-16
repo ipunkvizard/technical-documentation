@@ -105,8 +105,14 @@ th:empty {
     color: red;
 }
 
-:root {
-    --md-primary-fg-color:        #EE0F0F;
-    --md-primary-fg-color--light: #ECB7B7;
-    --md-primary-fg-color--dark:  #90030C;
+.image-width-100 {
+    width: 100px;
+}
+
+.image-width-200 {
+    width: 200px;
+}
+
+.image-width-300 {
+    width: 300px;
 }
