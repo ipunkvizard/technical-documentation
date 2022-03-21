@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vizardlabs.com/</loc>
-         <lastmod>2022-03-19</lastmod>
+         <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/product/minimum-requirements/</loc>
-         <lastmod>2022-03-19</lastmod>
+         <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/store/apple-app-store/</loc>
-         <lastmod>2022-03-19</lastmod>
+         <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/store/google-play-store/</loc>
-         <lastmod>2022-03-19</lastmod>
+         <lastmod>2022-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vizardlabs.com/technosoft/store/huawei-app-gallery/</loc>
+         <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/technology/framework/</loc>
-         <lastmod>2022-03-19</lastmod>
+         <lastmod>2022-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
