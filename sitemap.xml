@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vizardlabs.com/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/privacy/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/projects/kamus-madura/privacy/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/how-to/implement-biometric-login/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/how-to/setup-cordova-mac/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/how-to/setup-cordova-windows/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/how-to/setup-facebook-login/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/how-to/ssl-pinning/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://vizardlabs.com/technosoft/internal/facebook-review/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <loc>https://vizardlabs.com/technosoft/product/download/</loc>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/product/minimum-requirements/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://vizardlabs.com/technosoft/product/review-preparations/</loc>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/product/url-schemes/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/store/apple-app-store/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/store/google-play-store/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/store/huawei-app-gallery/</loc>
-         <lastmod>2024-02-07</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://vizardlabs.com/technosoft/store/private-server/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/technology/framework/angular/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://vizardlabs.com/technosoft/technology/payment/adyen/</loc>
-         <lastmod>2024-02-07</lastmod>
+         <lastmod>2024-02-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
